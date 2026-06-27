@@ -1,0 +1,14 @@
+{
+  "name": "friends-backend",
+  "version": "1.0.0",
+  "description": "Backend del chat Friends",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

@@ -4,5 +4,6 @@
 
 const FRIENDS_CONFIG = {
   // Ejemplo cuando esté en internet: "https://friends-backend.onrender.com"
-  API_URL: "http://localhost:3000",
+  API_URL: "https://izpia.onrender.com",
+
 };
